@@ -10,8 +10,7 @@ Quantum Wonderland is an enchanting collection of Jupyter notebooks exploring th
 
 - [Getting Started](#getting-started)
 - [Notebook Descriptions](#notebook-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#contributing) -- coming soon!
 
 ## Getting Started 🌟
 
